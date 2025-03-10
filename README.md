@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @FavourMichaelNazam
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Cybersecurity, vulnerability Assessment and Penetration Testing path
-- 💞️ I’m looking to collaborate on you and helping you to keep your cyber space safe 
+- 👋 Hi, I’m Faechi
+- 👀 I’m interested in Cybersecurity, Devops, product management and Software development
+- 💞️ I’m looking to collaborate on you and helping you achieve the mazimum best in all your projects 
 - 📫 How to reach me ... i'm favour michael on linkedin 
